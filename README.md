@@ -25,6 +25,8 @@ uhhh idk
 
 download the interpreter.py file and make a .fuzz file containing your code, run interpreter.py with the .fuzz file as your argument, and kaboom!
 
+you can also run interpreter.py without any arguments to launch an interactive shell (which gets interpreted the same way files are btw)
+
 ### are there even any benefits
 
 it's lightweight ig..?
