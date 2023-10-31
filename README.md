@@ -1,4 +1,4 @@
-![fuzz logo](https://raw.githubusercontent.com/Butterroach/fuzz/main/fuzz%20%5B5E96B70%5D.png)
+![fuzz logo](https://raw.githubusercontent.com/Butterroach/fuzz/main/fuzz.png)
 
 # fuzz
 
