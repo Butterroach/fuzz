@@ -31,4 +31,4 @@ you can also run interpreter.py without any arguments to launch an interactive s
 
 ### are there even any benefits
 
-it's lightweight ig..?
+it's lightweight ig..? (if you dont include the only dependancy)
